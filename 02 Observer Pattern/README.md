@@ -20,10 +20,10 @@
 * Your tree builder should be such that when you create a node (node_orig as the variable name), you should clone (using the prototype pattern) it twice to get two Nodes (let's say backup_Node_1 and backup_Node_2 as the variables holding the references). Setup backup_Node_1 and backup_Node_2 as observers of node_orig. node_orig, backup_Node_1, and backup_Node_2, should be instances of the same Node class. As node_orig is the subject, you should store the references of backup_Node_1 and backup_Node_2 in a data structure for listeners in Node_orig (array list of references, for example).
 
 * Apply the following delete operations, processing line at a time, from the file delete.txt. The file has the following format:
-	1234:C
-	2345:D
-	1234:A
-	...
+	1234:C <br />
+	2345:D <br />
+	1234:A <br />
+	... <br />
 
 * Search for the node with the B_Number in the line, and then delete the corresponding course in that Node. If that course does not exist to delete, then ignore and move to the next line. NEW: I the nodes does not exist with that BNumber, then ignore and move to the next line. Once the changes to the node_orig are done, the changes should be updated to both the corresponding nodes (call notifyAll(...)). Note that the updates for a line in delete.txt should be sent, before the next line is processed.
 
