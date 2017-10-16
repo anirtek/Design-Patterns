@@ -97,20 +97,8 @@ message on the CLI and will exit.
 * Input files should be placed inside "src/" directory of the base directory.
 * The build file is designed in such a way that it expects the inputfiles within the "src/" directory. 
 
-### Who do I talk to? ###
-
-* Owner: Aniruddha Tekade | atekade1@binghamton.edu [Admin]
-* Reader1: Gaurav Rattihali | grattih1@binghamton.edu [Read]
-* Reader2: Pankaj Saha | psaha4@binghamton.edu [Read]
-
 ### Declaration ###
 
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating I will have to sign an
-official form that I have cheated and that this form will be stored in
-my official university record. I also understand that I will receive a
-grade of 0 for the involved assignment for my first offense and that I
-will receive a grade of F for the course for any additional
-offense.
+"I have done this assignment completely on my own. I have not copied it, nor have I given my solution to anyone else. I understand that if I am involved in plagiarism or cheating I will have to sign an official form that I have cheated and that this form will be stored in my official university record. I also understand that I will receive a grade of 0 for the involved assignment for my first offense and that I will receive a grade of F for the course for any additional
+offense. 
 [Date:10/03/2017]
