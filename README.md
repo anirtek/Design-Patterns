@@ -6,4 +6,4 @@ This repository contains the CS542 coursework completed at the Binghamton Univer
 2. Prototype Pattern
 3. Singleton Pattern
 4. Factory Pattern
-5. State Pattern
+5. [State Pattern](https://github.com/anirtek/Design-Patterns/tree/master/03%20State%20Pattern)
