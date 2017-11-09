@@ -1,4 +1,4 @@
-# README : Implementation of ArrayList Data Structure #
+# CS 542 : Implementation of ArrayList Data Structure #
 
 This repository is created for maintaining code of CS542 Programming Design Patterns - Assignment_1.
 The program accepts only 2 inputs - input file name and output file name. 
