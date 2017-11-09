@@ -64,17 +64,16 @@ myTree package.
 
 ### File Structure ###
 
-* studentCoursesBackup
-- README.txt
-- src
-
-	=== build.xml
-	=== studentCoursesBackup
-       	=== driver
-            === Driver.java
-        === util
-            === TreeBuilder.java
-	   		=== Results.java
+* studentCoursesBackup/
+	1. README.txt
+	2. src/ 
+		1. build.xml
+		2. studentCoursesBackup/
+			1. driver/
+				1. Driver.java
+			2. util/
+				1. TreeBuilder.java
+				2. Results.java
 	   		=== FileProcessor.java
 	   		=== FileDisplayInterface.java
 	   		=== StdoutDisplayInterface.java
