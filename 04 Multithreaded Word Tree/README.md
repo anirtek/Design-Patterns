@@ -76,8 +76,8 @@ You need to be in the base directory of the project to perform following operati
 ## File Structure ##
 
 wordTree <br />
-	=== README.md <br />
-	=== src <br />
+&nbsp;=== README.md <br />
+&nbsp;=== src <br />
 		=== build.xml <br />
      		=== wordTree <br />
          		=== driver <br />
