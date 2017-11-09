@@ -75,24 +75,24 @@ You need to be in the base directory of the project to perform following operati
 
 ## File Structure ##
 
- wordTree 
- == README.md
- == src
-	=== build.xml
-	=== wordTree
-      	=== driver
-           === Driver.java
-        === util
-           === FileProcessor.java
-           === InputProcessor.java
-           === FileDisplayInterface.java
-           === StdoutDisplayInterface.java 
-   		=== MyLogger.java 
- 	   	=== store
-	   		=== Results.java
-	   	=== threadMgmt
-	   		=== CreateWorkers.java
-	   		=== PopulateThread.java
+ wordTree <br />
+ == README.md <br />
+ == src <br />
+	=== build.xml <br />
+	=== wordTree <br />
+      	=== driver <br />
+           === Driver.java <br />
+        === util <br />
+           === FileProcessor.java <br />
+           === InputProcessor.java <br />
+           === FileDisplayInterface.java <br />
+           === StdoutDisplayInterface.java  <br />
+   		=== MyLogger.java  <br />
+ 	   	=== store <br />
+	   		=== Results.java <br />
+	   	=== threadMgmt <br />
+	   		=== CreateWorkers.java <br />
+	   		=== PopulateThread.java <br />
 	   		=== DeleteThread.java
 
 ## Cautions about the project ##
