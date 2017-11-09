@@ -75,13 +75,13 @@ You need to be in the base directory of the project to perform following operati
 
 ## File Structure ##
 
- wordTree <br />
- == README.md <br />
- == src <br />
-	=== build.xml <br />
-	=== wordTree <br />
-      	=== driver <br />
-           === Driver.java <br />
+wordTree <br />
+	=== README.md <br />
+	=== src <br />
+		=== build.xml <br />
+     		=== wordTree <br />
+         		=== driver <br />
+	 			=== Driver.java <br />
         === util <br />
            === FileProcessor.java <br />
            === InputProcessor.java <br />
