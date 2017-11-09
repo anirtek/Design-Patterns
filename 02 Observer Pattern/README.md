@@ -1,4 +1,4 @@
-# README - Project Description #
+# CS 542 : Programming Assignment 02 #
 
 ## Backup System for Student Course Assignments ##
 
