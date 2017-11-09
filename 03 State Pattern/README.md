@@ -10,7 +10,7 @@ The assignment is based on the analysis and implementation of the STATE PATTERN.
 This assignment uses enums in java for logger in the MyLogger class. 
 The space & time complexity of the enums is always O(1).
 
-### Working Mechanism (Protocol) for this project ###
+### Working Protocol / Algorithm for this project ###
 
 The driver.java class validates the input which are exactly 3. The inputs are always
 accepted only from the commmand line while starting to execute this project. The driver.java
@@ -83,7 +83,7 @@ provided.
 
 ### Who do I talk to? ###
 
-* Owner: Aniruddha Tekade | atekade1@binghamton.edu [Admin]
+* Owner1: Aniruddha Tekade | atekade1@binghamton.edu [Admin]
 * Reader1: Gaurav Rattihali | grattih1@binghamton.edu [Read]
 * Reader2: Pankaj Saha | psaha4@binghamton.edu [Read]
 
@@ -97,4 +97,4 @@ my official university record. I also understand that I will receive a
 grade of 0 for the involved assignment for my first offense and that I
 will receive a grade of F for the course for any additional
 offense.
-[Date:10/19/2017]
+[Date:11/08/2017]
