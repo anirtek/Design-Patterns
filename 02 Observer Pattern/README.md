@@ -65,8 +65,8 @@ myTree package.
 ### File Structure ###
 
 * studentCoursesBackup/
-	1. README.txt
-	2. src/ 
+	* README.txt
+	* src/ 
 		1. build.xml
 		2. studentCoursesBackup/
 			1. driver/
