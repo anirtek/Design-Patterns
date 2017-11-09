@@ -77,7 +77,7 @@ You need to be in the base directory of the project to perform following operati
 
 * README.md
 	* build.xml
-	* wordTree 
+	* wordTree/ 
 		* src/ 
 			* wordTree/ 
 				* driver/ 
