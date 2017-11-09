@@ -64,9 +64,10 @@ myTree package.
 
 ### File Structure ###
 
- studentCoursesBackup
- == README.txt
- == src
+* studentCoursesBackup
+- README.txt
+- src
+
 	=== build.xml
 	=== studentCoursesBackup
        	=== driver
