@@ -1,4 +1,4 @@
-# README : CS542 Assignment 04 #
+# CS 542 : Programming Assignment 04 #
 
 ## What is this repository for? ##
 
