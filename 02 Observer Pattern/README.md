@@ -69,18 +69,18 @@ myTree package.
 	* src/ 
 		* build.xml
 		* studentCoursesBackup/
-			1. driver/
-				1. Driver.java
-			2. util/
-				1. TreeBuilder.java
-				2. Results.java
-	   		=== FileProcessor.java
-	   		=== FileDisplayInterface.java
-	   		=== StdoutDisplayInterface.java
-	   	=== myTree
-	   		=== Node.java
-	   		=== SubjectI.java
-	   		=== ObserverI.java
+			* driver/
+				* Driver.java
+			* util/
+				* TreeBuilder.java
+				* Results.java
+				* FileProcessor.java
+				* FileDisplayInterface.java
+				* StdoutDisplayInterface.java
+			* myTree/
+				* Node.java
+				* SubjectI.java
+				* ObserverI.java
 
 ### How do I run this project? ###
 
