@@ -67,8 +67,8 @@ myTree package.
 * studentCoursesBackup/
 	* README.txt
 	* src/ 
-		1. build.xml
-		2. studentCoursesBackup/
+		* build.xml
+		* studentCoursesBackup/
 			1. driver/
 				1. Driver.java
 			2. util/
