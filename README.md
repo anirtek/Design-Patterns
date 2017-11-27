@@ -11,3 +11,4 @@ This repository contains the CS542 coursework completed at the Binghamton Univer
 7. Abstract Factory
 8. Simple Factory
 9. Builder
+10. [Visitor Pattern](https://github.com/anirtek/Design-Patterns/tree/master/05%20Visitor%20Pattern)
