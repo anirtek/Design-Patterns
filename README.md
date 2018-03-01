@@ -18,10 +18,12 @@ This repository contains the CS542 coursework completed at the Binghamton Univer
 14. Decorator
 15. Memento
 16. Command
-17. Facade
-18. Chain Of Responsibility (COR)
-19. Mediator
-20. Bridge
-21. Flyweigth
-22. Dynamic Proxy
-23. MVC - Model View Controller
+17. [Adapter](https://github.com/anirtek/Design-Patterns/tree/master/06%20Adapter%20Pattern)
+18. Decorator
+19. Facade
+20. Chain Of Responsibility (COR)
+21. Mediator
+22. Bridge
+23. Flyweigth
+24. Dynamic Proxy
+25. MVC - Model View Controller
