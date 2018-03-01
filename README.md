@@ -4,7 +4,7 @@ This repository contains the CS542 coursework completed at the Binghamton Univer
 ## Patterns-I-have-completed [List-in-progress]
 01. [Observer](https://github.com/anirtek/Design-Patterns/tree/master/02%20Observer%20Pattern)
 02. Prototype
-03. Singleton
+03. [Singleton](https://github.com/anirtek/Design-Patterns/tree/master/07%20Singleton%20Pattern)
 04. Factory Method
 05. [State](https://github.com/anirtek/Design-Patterns/tree/master/03%20State%20Pattern)
 06. Object Pool
